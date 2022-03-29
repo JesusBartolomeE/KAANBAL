@@ -9,14 +9,14 @@ Caracteristicas electricas:
 
 Disposición de pines:
 
--Pines de control para 3 servotores
--Pines de control para señales digitales, 5 pines disponibles
--Pines de control para señales analógicas, 2 pines disponibles
--Pin dedicado para el uso de alarma sonora(Buzer)
--Pines dedicados para sensor ultrasónico
--Pines dedicados para modulo Bluetooth 
--Pines dedicados para protocolo I2C
+-Pines de control para 3 servotores.
+-Pines de control para señales digitales, 5 pines disponibles.
+-Pines de control para señales analógicas, 2 pines disponibles.
+-Pin dedicado para el uso de alarma sonora(Buzer).
+-Pines dedicados para sensor ultrasónico.
+-Pines dedicados para modulo Bluetooth.
+-Pines dedicados para protocolo I2C.
 -Tiene integrado un puente H para el control de 2 motores de C.D.
--Pin de reset disponible 
+-Pin de reset disponible.
 
 
