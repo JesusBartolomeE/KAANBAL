@@ -1,7 +1,7 @@
 # KAANBAL
 Proyecto desarrollador para CUALITEC.
 
-Kaanbal es una tarjeta de desarrollo o también llamada shield para uso con arduino nano, fue realizada en el año 2019, con el objetivo de enseñar robótica educativa. 
+Kaanbal es una tarjeta de desarrollo o también llamada shield para uso con arduino nano, fue realizada en el año 2019, con el objetivo de enseñar robótica educativa y facilitar la enseñanza de la programción. 
 
 Caracteristicas electricas:
 
