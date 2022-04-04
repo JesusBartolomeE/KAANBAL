@@ -16,7 +16,8 @@ Disposición de pines:
 -Pines dedicados para sensor ultrasónico.
 -Pines dedicados para modulo Bluetooth.
 -Pines dedicados para protocolo I2C.
+
 -Tiene integrado un puente H para el control de 2 motores de C.D.
 -Pin de reset disponible.
 
-
+![LEN08995](https://user-images.githubusercontent.com/62122521/161642951-f6f136ba-290f-41fa-a890-deed99085f3d.jpg)
