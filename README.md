@@ -20,4 +20,5 @@ Disposición de pines:
 -Tiene integrado un puente H para el control de 2 motores de C.D.
 -Pin de reset disponible.
 
-![Kaanbal](https://user-images.githubusercontent.com/62122521/163729687-0ceea4a5-b864-4bc9-a19f-bc161f3ef4d5.png)
+![Kaanbal](https://user-images.githubusercontent.com/62122521/163729913-973cae45-10c1-4692-9d18-642fb0f467fd.png)
+
