@@ -1,4 +1,3 @@
-![Kaanbal](https://user-images.githubusercontent.com/62122521/163729687-0ceea4a5-b864-4bc9-a19f-bc161f3ef4d5.png)
 # KAANBAL
 Proyecto desarrollador para CUALITEC.
 
@@ -20,3 +19,5 @@ Disposición de pines:
 
 -Tiene integrado un puente H para el control de 2 motores de C.D.
 -Pin de reset disponible.
+
+![Kaanbal](https://user-images.githubusercontent.com/62122521/163729687-0ceea4a5-b864-4bc9-a19f-bc161f3ef4d5.png)
