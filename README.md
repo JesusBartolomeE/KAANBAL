@@ -1,3 +1,4 @@
+![Kaanbal](https://user-images.githubusercontent.com/62122521/163729687-0ceea4a5-b864-4bc9-a19f-bc161f3ef4d5.png)
 # KAANBAL
 Proyecto desarrollador para CUALITEC.
 
